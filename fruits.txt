@@ -1,3 +1,6 @@
 apple
+banana
+peach
+pineapple
 papaya
 banana
